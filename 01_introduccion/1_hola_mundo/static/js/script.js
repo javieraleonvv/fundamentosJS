@@ -11,3 +11,4 @@ console.log(saludo + "para los" + destinatario);
 let nombre = prompt("ingrese su nombre: ")
 //Imprimir un nombre ingresado con un prompt
 console.log("hola, + nombre");
+export const apellido = "leon";
